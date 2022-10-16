@@ -1,4 +1,3 @@
-// Write your test here
 "use strict";
 
 const { Node, buildTree } = require("./challenge01");

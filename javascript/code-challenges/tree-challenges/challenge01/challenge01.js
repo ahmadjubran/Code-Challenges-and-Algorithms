@@ -1,5 +1,3 @@
-// Write here the code challenge solution
-
 "use strict";
 
 class Node {
