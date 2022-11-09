@@ -1,1 +1,3 @@
-// Add your whiteboard image here
+# whiteboard
+
+![whiteboard](./repeatedWord-whiteboard.jpg)
